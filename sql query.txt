@@ -1,0 +1,17 @@
+CREATE DATABASE sshm_db
+
+USE sshm_db;
+
+CREATE TABLE student (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(50) NOT NULL,
+    course VARCHAR(50) NOT NULL,
+    year INT NOT NULL
+);
+
+INSERT INTO student (name, course, year) VALUES
+('Syahmi', 'IoT', 3),
+('Hasyir', 'IoT', 2),
+('Farah', 'AI', 4);
+
+SELECT * FROM student;
