@@ -1,7 +1,7 @@
 # CloudComputing_GroupProject_March2026
 
-# This project is a fruit of successfull teamwork between Syahmi.S and Hashir.M.
-# This project uses AWS trial account and everything has been deleted once the owner uploaded this into GitHub.
+This project is a fruit of successfull teamwork between Syahmi.S and Hashir.M.
+This project uses AWS trial account and everything has been deleted once the owner uploaded this into GitHub.
 
 and the details/configuration of this project are as such:
 
