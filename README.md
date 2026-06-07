@@ -1,9 +1,9 @@
 # CloudComputing_GroupProject_March2026
 
-This project is a fruit of successfull teamwork between Syahmi.S and Hashir.M.
+This project is a fruit of successfull teamwork between Syahmi.S, Hashir.M & Aidil.I.
 This project uses AWS trial account and everything has been deleted once the owner uploaded this into GitHub.
 Also the project demo has been uploaded into youtube. here's the link:
-https://youtu.be/27LMjuUfeMc
+https://youtu.be/M3D0kO5sATQ
 
 and the details/configuration of this project are as such:
 
